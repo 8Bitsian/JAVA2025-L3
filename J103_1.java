@@ -1,4 +1,4 @@
-// Part 2 of Lab Project
+// Part 1 of Lab Project
 public class J103_2 {
   public static void main(String[] args) {
     // Get user input for weight
