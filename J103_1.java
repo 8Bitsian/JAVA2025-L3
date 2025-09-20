@@ -5,7 +5,7 @@ public class J103_2 {
     System.out.print("Enter weight in pounds: ");
     double weight = input.nextDouble();            // weight = 50
     System.out.print("Enter height in inches: ");
-    double heightIn = input.nextDouble();          // height = 100
+    double height = input.nextDouble();          // height = 100
     
     // Define Variables
     final double KILOGRAMS_PER_POUND = 0.4535;
